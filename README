@@ -1,0 +1,10 @@
+INTRODUCTION
+---------------------
+
+The purpose of this document is to outline the testing strategy and overall approach for the WFG Hypervolume project. 
+This includes test case derivation techniques, both fundamental approaches (functional and structural),
+with detailexplanations to why the chosen methods were selected.The focus of the test cases is to evaluate the compliance of the entire system, 
+giving a sense of validation that every unit of the project is performing to the provided specifications. 
+
+The cases arecovering the performance and reliability of the system, this includes recording user interaction, 
+data output and the speed in which the program performs the task.
